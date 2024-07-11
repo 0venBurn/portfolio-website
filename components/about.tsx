@@ -45,7 +45,7 @@ export default function About() {
         When I'm not coding, I enjoy playing video games, watching movies, and
         chilling with my cat. I also enjoy{" "}
         <span className="font-medium">read and learning new things</span>. I am
-        currently reading <span className="font-medium">Blood Meridian </span>.
+        currently reading <span className="font-medium">Blood Meridian</span>.
         I'm also relearning how to play the guitar. (I wasn't good before, nor
         currently on the relearn)
       </p>
