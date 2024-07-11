@@ -36,7 +36,7 @@ export const experiencesData = [
     title: "Graduated from NCI, BA  Psychology",
     location: "Dublin, IE",
     description:
-      "After 4 years of study in Dublin, I graduated with a bachelor's degree in Psychology. With a 1st Overall grade",
+      "After 3 years of study in Dublin, I graduated with a bachelor's degree in Psychology. With a 1st Overall grade",
     icon: React.createElement(LuGraduationCap),
     date: "2020-2023",
   },
@@ -44,7 +44,7 @@ export const experiencesData = [
     title: "MSc in Computer Science.",
     location: "Dublin, IE",
     description:
-      "Currently completing a master's degree in Computer Science at University College Dublin. Expected graduation in December 2024.",
+      "Currently completing a Master's degree in Computer Science at University College Dublin. Expected graduation in December 2024.",
     icon: React.createElement(LuGraduationCap),
     date: "2023 - 2024",
   },
@@ -68,7 +68,7 @@ export const projectsData = [
   {
     title: "Anseo",
     description:
-      "Analytics tool developed to help entreprenuers and business owners where it is best in New York to open or move their business",
+      "Analytics tool developed to help entreprenuers and business owners where best to move in New York",
     tags: [
       "React",
       "Vite",
