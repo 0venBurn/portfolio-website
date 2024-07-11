@@ -33,9 +33,9 @@ export default function About() {
         love the process of building new things and the experience of learning
         different things along the way I'm most familiar with{" "}
         <span className="font-medium">
-          React, PostgreSQL, MySQL, Go, Python
+          React, PostgreSQL, MySQL, Go, and Python
         </span>
-        . I am also comofortable with Tailwind CSS and Java. I am always looking
+        . I am also comfortable with Tailwind CSS and Java. I am always looking
         to learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         engineer.
