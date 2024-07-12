@@ -21,7 +21,7 @@ export default function About() {
       <p className="mb-3">
         After graduating with a degree in{" "}
         <span className="font-medium">Psychology</span>, and seeing the
-        introductions of computational methods to the field, I decided to persue
+        introductions of computational methods to the field, I decided to pursue
         a masters in the area of Computer Science. I enrolled in UCD and
         completed a variety of courses so far.{" "}
         <span className="font-medium">
