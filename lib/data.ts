@@ -57,6 +57,7 @@ export const projectsData = [
       "Project developed in a team of 3 to help users find, plan and predict trips using machine learning models on scraped data",
     tags: ["Python", "Flask", "MySQL", "JavaScript", "TensorFlow", "AWS"],
     imageUrl: dub_bikesImg,
+    projectLink: "https://github.com/0venBurn/Dublin-Bikes",
   },
   {
     title: "Captain Carbon",
@@ -64,6 +65,7 @@ export const projectsData = [
       "A 2D platformer game developed in Java using the LibGDX library. Developed to help educate kids on Carbon emissions and benefits of public transport. Game was published in the IEEE ITSC 2024 conference ",
     tags: ["Java", "LibGDX"],
     imageUrl: captain_carbonImg,
+    projectLink: "https://github.com/0venBurn/Captain-Carbon",
   },
   {
     title: "Anseo",
@@ -82,6 +84,7 @@ export const projectsData = [
       "Spring Boot",
     ],
     imageUrl: anseoImg,
+    projectLink: "",
   },
 ] as const;
 
