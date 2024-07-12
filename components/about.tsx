@@ -31,7 +31,7 @@ export default function About() {
         , to name a few. My <span className="italic">favorite </span>part of
         Computer Science is creating solutions to interesting problems. I really
         love the process of building new things and the experience of learning
-        different things along the way I'm most familiar with{" "}
+        different things along the way. I'm most familiar with{" "}
         <span className="font-medium">
           React, PostgreSQL, MySQL, Go, and Python
         </span>
@@ -44,9 +44,9 @@ export default function About() {
       <p>
         When I'm not coding, I enjoy playing video games, watching movies, and
         chilling with my cat. I also enjoy{" "}
-        <span className="font-medium">read and learning new things</span>. I am
-        currently reading <span className="font-medium">Blood Meridian</span>.
-        I'm also relearning how to play the guitar. (I wasn't good before, nor
+        <span className="font-medium">reading and learning new things</span>. I
+        am currently reading <span className="font-medium">Blood Meridian</span>
+        . I'm also relearning how to play the guitar. (I wasn't good before, nor
         currently on the relearn)
       </p>
     </motion.section>
