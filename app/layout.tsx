@@ -12,7 +12,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata = {
   title: "Evan Byrne | Personal Portfolio",
   description:
-    "Evan is an aspiring full-stack developer currently finishing a MSc in Computer Science.",
+    "Evan is an full-stack developer currently finishing a MSc in Computer Science.",
 };
 
 export default function RootLayout({
