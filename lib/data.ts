@@ -84,7 +84,7 @@ export const projectsData = [
       "Spring Boot",
     ],
     imageUrl: anseoImg,
-    projectLink: "",
+    projectLink: "https://anseo.live",
   },
 ] as const;
 
